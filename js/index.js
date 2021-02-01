@@ -1,6 +1,6 @@
 
 
-fetch("../data/data.json").then( response => {    //then is a higher order function
+fetch("https://gskumar7569.github.io/e-commerce/data/data.json").then( response => {    //then is a higher order function
     return response.json()         //fetching 
 }).then(data => {  // adding another then to fetch (.then) 
        //fetching the response in the object format
