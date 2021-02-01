@@ -1,0 +1,29 @@
+{
+     "mobiles":[
+         {
+             "name" : "Nokia 7.2",
+             "image" : "img/1.jpg",
+             "price" : 16000
+         },
+         {
+             "name" : "note9 pro max",
+             "image" : "img/1.jpg",
+             "price" : 20000
+         },
+         {
+             "name" : "samsung a71",
+             "image" : "img/1.jpg",
+             "price" : 35000
+         },
+         {
+             "name" : "narzo 10a",
+             "image" : "img/4.jpg",
+             "price" : 11000
+         },
+         {
+             "name" : "one plus 8pro",
+             "image" : "img/5.jpg",
+             "price" : 55000
+         }
+     ]
+}
